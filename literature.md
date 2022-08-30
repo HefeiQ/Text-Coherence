@@ -1,0 +1,2 @@
+- [2021ACL-Can Transformer Models Measure Coherence In Text? Re-Thinking the Shuffle Test](https://aclanthology.org/2021.acl-short.134.pdf)
+- [2020LREC-Evaluating Text Coherence at Sentence and Paragraph Levels](https://aclanthology.org/2020.lrec-1.210.pdf)
